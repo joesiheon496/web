@@ -108,6 +108,7 @@ body {
 
 .header-title-accent {
 font-weight:700;
+}
 
 .header-tagline-small {
   color:#8287a4;
